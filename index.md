@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## Welcome!
-This is the community home for the ClearCanvas Open Source Project. ClearCanvas is an open source code base for enabling software innovation in imaging. The extensible and robust platform includes viewing, archiving, management, workflow and distribution of images as well as an open architecture for core competency tool development.
+This is the community home for the ClearCanvas Open Source Project. ClearCanvas is an open source code base for enabling software innovation in medical imaging. The extensible and robust platform includes viewing, archiving, management, workflow and distribution of medical images as well as an open architecture for core competency tool development.
 
 Please note that software derived from the ClearCanvas Open Source Project (including any official builds based on the Open Source Projects) are **neither intended nor licensed for clinical use**, and should only be used as permitted by applicable and governing regulations.
 
