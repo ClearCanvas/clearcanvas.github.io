@@ -18,7 +18,7 @@ This program is distributed in the hope that it will be useful, but **WITHOUT AN
 You should have received a copy of the GNU General Public License along with this program. If not, see [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/).
 
 ## Getting Started for End Users
-**Free**, official builds based on the Open Source Project are coming soon! Once we get some final issues sorted out, we will have the following packages available for download:
+**Free**, official builds based on the Open Source Project are now available for [download on GitHub](https://github.com/ClearCanvas/ClearCanvas/releases)! The following packages are currently available:
 
 * **ClearCanvas DICOM Viewer** - Desktop client for communicating with PACS servers and viewing DICOM studies.
 * **ClearCanvas DICOM Server** - Server for storing and managing DICOM studies with a web-based administration GUI.
